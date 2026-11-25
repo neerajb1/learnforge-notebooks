@@ -1,0 +1,7 @@
+Student,StudyHours,Attendance,PreviousScore,ExamScore,Passed
+S1,1,60%,40,35,False
+S2,,70%,50,45,no
+S3,3,80%,60,55,True
+S3,3,80%,60,55,True
+S4,4,90%,70,65,yes
+S5,5,95%,80,75,True

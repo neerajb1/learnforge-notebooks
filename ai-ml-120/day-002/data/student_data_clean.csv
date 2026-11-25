@@ -1,0 +1,6 @@
+Student,StudyHours,Attendance,PreviousScore,ExamScore,Passed
+S1,1.0,60,40,35,False
+S2,3.5,70,50,45,False
+S3,3.0,80,60,55,True
+S4,4.0,90,70,65,True
+S5,5.0,95,80,75,True

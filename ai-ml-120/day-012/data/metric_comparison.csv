@@ -1,0 +1,6 @@
+Metric,ModelA,ModelB
+Accuracy,0.803,0.787
+Precision,0.714,0.727
+Recall,0.541,0.432
+F1,0.615,0.542
+ROC-AUC,0.828,0.81

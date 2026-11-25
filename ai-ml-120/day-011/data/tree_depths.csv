@@ -1,0 +1,6 @@
+Depth,TrainRMSE,ValidationRMSE
+Depth 1,12.08,12.53
+Depth 2,10.82,12.07
+Depth 3,9.56,13.26
+Depth 5,6.8,13.74
+Unlimited,2.04,15.51

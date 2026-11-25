@@ -1,0 +1,5 @@
+MaxDepth,CVAccuracy
+3,0.796
+5,0.812
+10,0.804
+None,0.804

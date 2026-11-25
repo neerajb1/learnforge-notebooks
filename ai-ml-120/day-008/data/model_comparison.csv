@@ -1,0 +1,5 @@
+Model,TrainingRMSE,ValidationRMSE
+Linear regression,10.55,10.5
+Tree depth 10,2.1,15.72
+Tree depth 2,10.82,12.07
+Tree depth 5,6.8,13.74

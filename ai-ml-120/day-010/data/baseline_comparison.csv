@@ -1,0 +1,5 @@
+Model,MAE,RMSE,R2
+Mean baseline,10.59,12.74,-0.012
+Median baseline,10.61,12.75,-0.014
+Rule: 5 x hours + 40,9.39,10.98,0.249
+Linear regression,8.83,10.5,0.312

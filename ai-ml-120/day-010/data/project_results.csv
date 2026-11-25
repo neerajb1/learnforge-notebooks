@@ -1,0 +1,4 @@
+Model,MAE,MSE,RMSE,R2
+Mean baseline,10.866,193.899,13.925,-0.002
+Median baseline,10.87,194.0,13.928,-0.003
+Linear regression,8.615,98.47,9.923,0.491

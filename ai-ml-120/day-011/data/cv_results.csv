@@ -1,0 +1,4 @@
+Model,RMSE_mean,RMSE_std,R2_mean,R2_std
+Linear,10.875,1.388,0.309,0.154
+Ridge,10.87,1.401,0.31,0.152
+Lasso,10.875,1.391,0.309,0.154

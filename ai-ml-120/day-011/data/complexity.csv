@@ -1,0 +1,6 @@
+Degree,TrainRMSE,ValidationRMSE,ValidationR2
+Degree 1,10.55,10.5,0.312
+Degree 2,10.272,11.224,0.214
+Degree 3,9.609,11.4,0.19
+Degree 5,8.359,32.531,-5.6
+Degree 10,7.684,41.349,-9.663

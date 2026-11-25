@@ -1,0 +1,12 @@
+Student,Class,Age,StudyHours,Attendance,PreviousScore,ExamScore,Passed
+S1,A,10,1,60,40%,35,False
+S2,A,11,2,70,50%,45,no
+S3,B,,3,80,60,55,True
+S4,b,12,4,,70%,65,yes
+S5,B ,11,,95,80,75,True
+S6,C,eleven,3,85,55%,,False
+S7,c,12,4,90,65,70,True
+S7,c,12,4,90,65,70,True
+S8,C,11,2,75,45%,750,True
+S9,A,12,5,92,75,80,TRUE
+S10,,11,1,65,35%,40,False

@@ -1,0 +1,5 @@
+Model,MAE,MSE,RMSE,R2
+Mean baseline,10.592,162.3,12.74,-0.012
+Linear regression,8.83,110.243,10.5,0.312
+Ridge (alpha=1),8.823,110.13,10.494,0.313
+Lasso (alpha=0.01),8.829,110.219,10.499,0.313
